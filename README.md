@@ -1,1 +1,1 @@
-This is Blockchain Course at Holberton!
+This is Blockchain Course at Holberton up-to-date!
